@@ -361,11 +361,11 @@ a{
     width: auto;
     height: 100vh;
     margin-left: 2%;
-    margin-right:2%
+    margin-right: 2%;
 }
 .leftimp{
-    height: 74%;
-    width: 48%;
+    height: 65%;
+    width: 45%;
     box-shadow: 0px 0px 1px grey;
     border-radius: 5px;
     margin: 2%;
@@ -374,7 +374,7 @@ a{
     border: 1px solid rgb(249, 231, 231);
 }
 .rightimp{
-    height: 74%;
+    height: 65%;
     width: 28%;
     box-shadow: 0px 0px 1px grey;
     border-radius: 5px;
@@ -403,7 +403,7 @@ a{
 .parson{
     border-radius: 50%; 
     margin-top: 8%;
-    height: 100px;
+    height: 90px;
 }
 .position{
     font-size: 1em;
@@ -412,7 +412,7 @@ a{
 }
 .imp5{
     background-image: url("https://tse3.mm.bing.net/th?id=OIP.hoGZlw83uzR5cpxqO8siAgHaEK&pid=Api&P=0&h=180");
-    height: 75%;
+    height: 65%;
     width: 90%;
     background-size: cover;
     background-repeat: no-repeat;
@@ -429,15 +429,15 @@ a{
     padding: 5%;
     border-radius: 5%;
     font-family: "Poppins", sans-serif;
-    height: 40vh;
+    height: 33vh;
     margin-top: 20%;
     margin-left: 25%;
 }
 .offer{
     color: white;
     background-color: rgb(115, 94, 112);
-    width: 60%;
-    padding: 10px;
+    width: 50%;
+    padding: 4px;
     border-radius: 5px;
     text-align: center;
     font-size: 1em;
@@ -464,17 +464,20 @@ a{
 .wrapper{
     margin: 05px 2%;
     font-family: "Poppins", sans-serif;
-    display: block;
-    padding-top: 4%;
+    display:grid;
+    padding-top: 3%;
+    
 }
 .firsttext{
     color: rgb(61, 58, 58);
     font-weight: bold;
-    font-size: 1.2rem;
+    font-size: 1rem;
+    
 }
 .lasttext{
-    font-size: 1rem;
+    font-size: 0.80rem;
     color: gray;
+    
 }
 .lastbox{
     display: flex;
