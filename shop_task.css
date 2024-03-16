@@ -365,7 +365,7 @@ a{
 }
 .leftimp{
     height: 74%;
-    width: 45%;
+    width: 48%;
     box-shadow: 0px 0px 1px grey;
     border-radius: 5px;
     margin: 2%;
@@ -403,6 +403,7 @@ a{
 .parson{
     border-radius: 50%; 
     margin-top: 8%;
+    height: 90px;
 }
 .position{
     font-size: 1em;
