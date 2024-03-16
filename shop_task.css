@@ -360,17 +360,17 @@ a{
     align-items: stretch;
     width: auto;
     height: 100vh;
-    /* margin-left: 2%; */
+    margin-left: 2%;
 }
 .leftimp{
     height: 74%;
-    width: 43%;
+    width: 45%;
     box-shadow: 0px 0px 1px grey;
     border-radius: 5px;
     margin: 2%;
     align-items: center;
     text-align: center;
-    border: 1px solid grey;
+    border: 1px solid rgb(249, 231, 231);
 }
 .rightimp{
     height: 74%;
@@ -380,10 +380,10 @@ a{
     margin: 2%;
     align-items: center;
     text-align: center;
-    border: 1px solid grey;
+    border: 1px solid rgb(249, 231, 231);
 }
 .tem_it{
-    border-bottom: 1px solid gray; 
+    border-bottom: 1px solid rgb(197, 195, 195); 
     padding:5px;
 }
 .testimonial img{
