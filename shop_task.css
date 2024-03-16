@@ -361,11 +361,11 @@ a{
     width: auto;
     height: 100vh;
     margin-left: 2%;
-    margin-right: 2%;
+    /* margin-right: 2%; */
 }
 .leftimp{
     height: 65%;
-    width: 45%;
+    width: 50%;
     box-shadow: 0px 0px 1px grey;
     border-radius: 5px;
     margin: 2%;
@@ -413,7 +413,7 @@ a{
 .imp5{
     background-image: url("https://tse3.mm.bing.net/th?id=OIP.hoGZlw83uzR5cpxqO8siAgHaEK&pid=Api&P=0&h=180");
     height: 65%;
-    width: 90%;
+    width: 100%;
     background-size: cover;
     background-repeat: no-repeat;
     margin-top: 20px;
