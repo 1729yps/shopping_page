@@ -797,6 +797,7 @@ a{
         grid-template-columns: repeat(3,30%);
     }
     .s_unpopular{
+        display: block;
         padding: 3% 2%;
         font-family: "Poppins", sans-serif;
         color: white;
