@@ -752,7 +752,8 @@ a{
         font-size: x-large;
     }
     .centerimg{
-        height: 25vh;
+        height: 18vh;
+        width: 40vw;
     }
     .imp5{
         height: 100%;
